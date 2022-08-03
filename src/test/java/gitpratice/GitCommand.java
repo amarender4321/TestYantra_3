@@ -6,6 +6,7 @@ public class GitCommand {
 	@Test
 	public void test2() {
 		System.out.println("command add");
+		System.out.println("command added");
 	}
 
 }
